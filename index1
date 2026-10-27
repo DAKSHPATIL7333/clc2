@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web App</title>
+</head>
+<body>
+    <h1>Welcome to Cloud Computing</h1>
+    <p>This is my first cloud-hosted web application.</p>
+</body>
+</html>
